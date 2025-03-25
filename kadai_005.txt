@@ -14,4 +14,4 @@ Initialized empty Git repository in /Users/moriryuunosuke/git_challenge/.git/
  1 file changed, 2 insertions(+), 1 deletion(-)
 (base) moriryuunosuke@moriryuunosukenoMacBook-Pro git_challenge % git log --oneline
 4de6c85 (HEAD -> main) 日本語訳を追加
-33c2a7d hello_world.txtを追加
+33c2a7d hello_world.
